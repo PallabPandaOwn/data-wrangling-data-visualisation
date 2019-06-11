@@ -1,0 +1,18 @@
+[                        Company           Contact  Country
+ 0           Alfreds Futterkiste      Maria Anders  Germany
+ 1    Centro comercial Moctezuma   Francisco Chang   Mexico
+ 2                  Ernst Handel     Roland Mendel  Austria
+ 3                Island Trading     Helen Bennett       UK
+ 4  Laughing Bacchus Winecellars   Yoshi Tannamuri   Canada
+ 5  Magazzini Alimentari Riuniti  Giovanni Rovelli    Italy,
+           Tag                                        Description
+ 0     <table>                                    Defines a table
+ 1        <th>                   Defines a header cell in a table
+ 2        <tr>                           Defines a row in a table
+ 3        <td>                          Defines a cell in a table
+ 4   <caption>                            Defines a table caption
+ 5  <colgroup>  Specifies a group of one or more columns in a ...
+ 6       <col>  Specifies column properties for each column wi...
+ 7     <thead>               Groups the header content in a table
+ 8     <tbody>                 Groups the body content in a table
+ 9     <tfoot>               Groups the footer content in a table]
